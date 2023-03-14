@@ -1,16 +1,15 @@
-# Three.js Journey
+# Three.js로 만든 귀신의 집 입니다.
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+# It is a ghost house made of Three.js.
 
-``` bash
-# Install dependencies (only the first time)
+```bash
+# git clone
+git clone https://github.com/moomooj/ghost_house.git
+
+# dependencies install
 npm install
 
-# Run the local server at localhost:8080
+# running npm dev
 npm run dev
 
-# Build for production in the dist/ directory
-npm run build
 ```
