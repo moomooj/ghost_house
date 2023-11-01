@@ -1,4 +1,4 @@
-# 3D text by Three.js
+# Ghost House by Three.js
 
 - vite로 작성하였습니다.
 - 링크 https://moomooj.github.io/ghost_house/
