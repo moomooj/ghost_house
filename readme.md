@@ -1,7 +1,7 @@
 # 3D text by Three.js
 
 - vite로 작성하였습니다.
-- https://moomooj.github.io/ghost_house/
+- 링크 https://moomooj.github.io/ghost_house/
 
 ```bash
 # npm install
